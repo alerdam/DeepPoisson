@@ -2,7 +2,7 @@
 
 DeepPoisson is an experimental deep learning project that treats electromagnetic field distribution as an image-to-image translation task. By leveraging a **Dilated U-Net architecture**, the model learns to solve the Poisson equation ($\nabla^2 V = f$) in a single forward pass, providing a high-performance alternative to traditional iterative numerical methods.
 
-<img src="DOCIMG.png" width="400" />
+<img src="DOCIMG.png" width="90%" />
 
 ## ✨ Key Features
 
